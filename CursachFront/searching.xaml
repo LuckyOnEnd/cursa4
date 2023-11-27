@@ -175,7 +175,7 @@
                         <TextBox  x:Name="SearchingParametrName" Width="150"  Style="{DynamicResource CustomTextBoxStyle}" />
                     </Border>
                     <Border Width="{Binding Width, ElementName=SearchingParametrSecondName}" Background="Azure" CornerRadius="10"  Margin="4,0,4,0">
-                        <TextBox  x:Name="SearchingParametrSecondName" Width="{Binding Width, ElementName=SearchingParametrName}" Style="{DynamicResource CustomTextBoxStyle}"/>
+                        <TextBox x:Name="SearchingParametrSecondName" Width="{Binding Width, ElementName=SearchingParametrName}" Style="{DynamicResource CustomTextBoxStyle}" TextChanged="textBox1_TextChanged" />
                     </Border>
                     <Border Width="{Binding Width, ElementName=SearchingParametrLastKlikuxa}" Background="Azure" CornerRadius="10"  Margin="4,0,4,0" >
                         <TextBox  x:Name="SearchingParametrKlikuxa" Width="{Binding Width, ElementName=SearchingParametrName}" Style="{DynamicResource CustomTextBoxStyle}"/>

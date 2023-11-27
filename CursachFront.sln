@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursachFront.Core", "Cursac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursachFront.Tests", "CursachFront.Tests\CursachFront.Tests.csproj", "{E98171F1-38DC-48B8-9BCD-B521D8F6B1CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F0FE7B90-1AAA-4363-950E-F9D881AFEB6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E98171F1-38DC-48B8-9BCD-B521D8F6B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E98171F1-38DC-48B8-9BCD-B521D8F6B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E98171F1-38DC-48B8-9BCD-B521D8F6B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0FE7B90-1AAA-4363-950E-F9D881AFEB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FE7B90-1AAA-4363-950E-F9D881AFEB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FE7B90-1AAA-4363-950E-F9D881AFEB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FE7B90-1AAA-4363-950E-F9D881AFEB6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

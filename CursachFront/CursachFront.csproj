@@ -38,4 +38,8 @@
     </Resource>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CursachFront.Core\CursachFront.Core.csproj" />
+  </ItemGroup>
+
 </Project>
